@@ -1,37 +1,30 @@
-# Frontend Mentor - Interactive card details form
+# Interactive Card Details Form
 
-This is a responsive and fully functional solution to the **Interactive Card Details Form** challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw).
+This is a solution to the [Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw) challenge.
 
 ![Design preview](./design/preview.png)
 
-
 ## 🚀 Live Demo
 
-🔗 [Live Site](https://notorious-code.github.io/interactive-card-details-form/)
+🔗 [View Live](https://your-github-username.github.io/interactive-card-details-form-main/)
 
-## 💡 Features
+## 📄 Overview
 
-- Real-time input updates on the card
-- Form validation with clear error messages
-- Mobile-responsive layout
-- Accessible keyboard navigation
+Users can:
 
-## 📁 Built With
+- Fill out cardholder name, card number, expiry, and CVC
+- See real-time input preview on a virtual credit card
+- Get inline error messages for invalid input
+- See confirmation screen after submission
 
-- Semantic **HTML5**
-- **CSS3** Flexbox
-- **Vanilla JavaScript**
-- Mobile-first workflow
+## 🛠 Built With
 
-## 🧠 What I learned
-
-This project helped me improve my JavaScript form validation skills and real-time DOM manipulation techniques.
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
 ## ✍️ Author
 
-- GitHub: [notorious-code](https://github.com/notorious-code)
-- Frontend Mentor: [@notorious-code](https://www.frontendmentor.io/profile/notorious-code)
+- GitHub: [@notorious-code](https://github.com/notorious-code)
+- Live Site: [interactive-card-details-form](https://notorious-code.github.io/interactive-card-details-form-main/)
 
-## ✅ Status
-
-✔️ Completed and deployed
