@@ -7,7 +7,7 @@
 
 This is a responsive and fully functional solution to the **Interactive Card Details Form** challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw).
 
-![Design preview](./design/desktop-preview.png)
+![Design preview](./design/desktop-preview.jpg)
 
 
 ## 🚀 Live Demo
