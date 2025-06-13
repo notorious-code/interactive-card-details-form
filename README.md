@@ -1,13 +1,8 @@
 # Frontend Mentor - Interactive card details form
 
-![Design preview for the Interactive card details form coding challenge](preview.jpg)
-
-
-# Interactive Card Details Form
-
 This is a responsive and fully functional solution to the **Interactive Card Details Form** challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw).
 
-![Design preview](./design/desktop-preview.jpg)
+![Design preview](./design/desktop-preview.png)
 
 
 ## 🚀 Live Demo
